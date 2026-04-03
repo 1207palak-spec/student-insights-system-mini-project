@@ -1,0 +1,10 @@
+Palak,90.0
+Krati ,89.0
+Tisha,78.0
+Chinu,88.0
+Garvita,93.0
+Binti,84.0
+2,3.0
+Palak ,90.0
+Ujjawal,90.0
+Plk,80.0
